@@ -4,7 +4,6 @@ setup.py
 poe_api_wrapper/__init__.py
 poe_api_wrapper/api.py
 poe_api_wrapper/example.py
-poe_api_wrapper/proxies.py
 poe_api_wrapper/queries.py
 poe_api_wrapper.egg-info/PKG-INFO
 poe_api_wrapper.egg-info/SOURCES.txt
