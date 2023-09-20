@@ -1,3 +1,10 @@
+删除了ballyregan 以便使用自己的代理
+```python
+from poe_api_wrapper import PoeApi
+
+client = PoeApi('token', proxy='http://127.0.0.1:7890')
+
+```
 <div align="center">
 <a href="https://github.com/snowby666">
 <img src="https://socialify.git.ci/snowby666/poe-api-wrapper/image?font=Raleway&forks=1&issues=1&language=1&logo=https://i.ibb.co/JsNwP3B/nobgprofile-3.png&name=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Auto" width="700" height="350"></a>
