@@ -1,3 +1,4 @@
+# coding: utf-8
 from re import search
 from time import sleep, time
 from httpx import Client
