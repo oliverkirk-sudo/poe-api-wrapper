@@ -1,4 +1,9 @@
 删除了ballyregan 以便使用自己的代理
+安装
+```shell
+pip install git+https://github.com/oliverkirk-sudo/poe-api-wrapper.git
+```
+使用
 ```python
 from poe_api_wrapper import PoeApi
 
