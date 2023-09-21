@@ -4,9 +4,7 @@ Version: 1.2.7
 Summary: A simple API wrapper for Poe.com using Httpx
 Home-page: https://github.com/snowby666/poe-api-wrapper
 Author: snowby666
-License: UNKNOWN
 Keywords: python,poe,quora,chatgpt,claude,poe-api,api
-Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: GNU General Public License (GPL)
 Classifier: Operating System :: OS Independent
@@ -395,4 +393,3 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 ```
-
